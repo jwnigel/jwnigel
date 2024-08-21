@@ -1,1 +1,1 @@
-### Hi there 👋, my name is Nigel. I am an iOS dev.
+### Hi there 👋, my name is Nigel. I build dope apps.
